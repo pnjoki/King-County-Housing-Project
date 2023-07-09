@@ -6,7 +6,7 @@
 
 King County is in the state of Washington in the United States. It is Washington's most populous county and the 13th most populous in the United States. Seattle, the state's most populated city, serves as the county seat.
 
-**BUSINESS UNDERSTANDING**
+**BUSINESS PROBLEM**
 
 A Seattle real estate agent wants to discover which elements have a substantial impact on the price of a house in King County. This will help in strategizing on the best criterion to use to maximise profit. The company has tasked me with developing a model that will be used to estimate property prices in King County and obtaining substantial advice on activities that they should take to ensure the business's success.
 
